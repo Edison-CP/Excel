@@ -1,4 +1,4 @@
 # Excel Dashboard - Zomato Restaurant Analysis
 
 ## Dashboard Preview
-![Dashboard Preview](Zomato-Restaurant-Analysis.png)
+![Dashboard Preview](Zomato Restaurant Analysis.png)
